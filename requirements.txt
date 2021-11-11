@@ -1,0 +1,6 @@
+# all deps needed by the lessons
+scikit-learn
+pydot
+pydotplus
+six
+graphviz
